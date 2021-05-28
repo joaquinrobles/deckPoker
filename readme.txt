@@ -24,6 +24,3 @@ your code to meet this bar. We are not concerned with how quickly you complete t
 assignment.
 
 Take your time and do it right!
-
-Sincerely,
-Appian Engineering
